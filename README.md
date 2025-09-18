@@ -1,8 +1,6 @@
-# web-dev-starter
+# M4.2-Lab
 
-This is a starter project for web development with no frameworks and minimal
-dependencies. It is intended to be a starting point for web development projects
-that are written in plain HTML, CSS, and JavaScript.
+Project to take the content for the homepage of a bird watching website and add structural elements to it so it can have a page layout applied to it.
 
 ## Getting Started
 
@@ -27,3 +25,9 @@ To run the tests for the project, run the following command:
 ```bash
 npm test
 ```
+
+## Sources
+https://css-tricks.com/snippets/css/complete-guide-grid/
+https://css-tricks.com/snippets/css/a-guide-to-flexbox/
+https://css-tricks.com/a-complete-guide-to-css-media-queries/
+
